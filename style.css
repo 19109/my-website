@@ -189,15 +189,13 @@ textarea
 }
 .btn2
 {
-    background-color: #32B7E8;
-    border: none;
-    padding: 8px 20px;
-    color:white;
-    margin: auto;
-    display: block;
-    margin-bottom: 20px;
+   background-color: #32B7E8;
+   border: none;
+   padding:8px 10px;
+   margin-left: 100px;
+   margin-bottom: 20px;
     
-
+    
 }
 .btn3
 {
