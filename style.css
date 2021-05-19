@@ -1,0 +1,220 @@
+body
+{
+    margin: 0;
+}
+.header
+{
+    background-color: #86509C;
+    
+}
+
+h1
+{
+    color: white;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-size: 30px;
+}
+.btn1
+{
+    margin-bottom: 100px;
+    background-color: #cf4910!important;
+    color: white;
+    text-transform: uppercase;
+    padding: 10px 25px;
+    
+    
+}
+.text
+{
+    text-align: center;
+    color: white;
+    font-family: serif;
+    text-align: center!important   ;
+    
+}
+.meet-text
+{
+    text-align: center;
+    font-family: serif;
+    text-align: center!important   ;
+}
+.port-text
+{
+    text-align: center;
+    font-family: serif;
+    text-align: center!important   ;
+}
+hr
+{
+    width: 7%;
+    background-color: black;
+}
+.service h5
+{
+    margin-bottom: 45px;
+}
+.service
+{
+    background-color: #17C1A4;
+    padding: 40px;
+}
+.service-content
+{
+    text-align: center;
+    color: white;
+    padding: 10px;
+    margin: 20px;
+    font-family: sans-serif;
+}
+.service-content img
+{
+ height: 105px;
+}
+.service-content h2{
+    text-transform: uppercase;
+    font-size: 22px;
+}
+.service-content h5
+{
+    font-size: 14px;
+    text-align: justify;
+}
+
+.meet-container
+{
+    background-color: #E8F1F8;
+    padding: 80px;
+}
+.client-content img
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.client-content
+{
+    padding: 40px;
+    color: white;
+}
+.client-content h5
+{
+    margin-bottom: 80px;
+}
+.client-content h3
+{
+text-transform: uppercase;
+}
+.meet-container img
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.metting
+{
+    text-align: center;
+}
+.metting h2{
+    text-transform: uppercase;
+    font-size: 22px;
+}
+.metting p
+{
+    font-size: 14px;
+    text-align: justify;
+}
+.metting h6
+{
+    color: #6EC7F4;
+   
+}
+li{
+    list-style: none;
+    display: inline-block;
+    padding: 5px;
+    font-size: 15px;
+}
+.portfolio
+{
+    text-align: center;
+    padding: 40px;
+    background-color:#FFDC9A;
+}
+.portfolio img
+{
+    width: 400px ;
+    height: 300px;
+}
+.portfolio p
+{
+    text-transform: uppercase;
+}
+.btn
+{
+    background-color: #ECC987;
+    text-transform: uppercase;
+}
+
+.client-content
+{
+    background-color: #D6477F;
+}
+.footer
+{
+    background-color: #3D549A;
+}
+.tara
+{
+    width: 500px;
+    height: 300px;
+}
+.x 
+{
+float: left;
+
+}
+.Y
+{
+float: left;
+}
+input
+{
+    margin: auto;
+    color: white;
+}
+textarea
+{
+    color: white;
+}
+.btn2
+{
+    background-color: #32B7E8;
+    border: none;
+    padding: 8px 20px;
+    color:white;
+    margin: auto;
+    display: block;
+    margin-bottom: 20px;
+    
+
+}
+.btn3
+{
+    background-color: #344B8F;
+    border: none;
+    padding: 20px;
+    margin: 20px;
+    color: white;
+    font-size: 20px;
+    
+}
+.alu
+{
+    background-color: #344B8F;
+    text-align: center;
+}
+placeholder
+{
+    color:#fff;
+}
